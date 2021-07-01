@@ -1,4 +1,3 @@
-# Springboard-Data-Science-Capstone-Farmers-Markets
 <h1>My Springboard Capstone project on farmer's markets</h1>
 <h2>1. Introduction</h2>
 <p>Farmer's markets are a key factor in the health of a population due to greater proximity to quality food sources and greater trust from consumers because they can get to know their local farmers and trust that the food is produced to their standards.  With news stories of food recalls due to pathogens or foreign matter, farmer's markets can be seen as a source of food produced closer to home, with less risk of contamination. Farmer's markets that sell a greater variety of foods and accept non-cash methods of payment may be likelier to draw more customers and increase their presence in the local areas.</p>
